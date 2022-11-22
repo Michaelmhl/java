@@ -15,7 +15,7 @@ class Calculation {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Calculation obj = new Calculation();
-		int sum = obj.sum(5,10);
+		int sum = obj.sum(10,10);
 		int mul = obj.mul(5, 10);
 		
 		System.out.println("sum :: " +sum+"\nmul :: "+mul );
